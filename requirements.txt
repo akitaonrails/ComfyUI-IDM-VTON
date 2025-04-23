@@ -1,10 +1,10 @@
 torch
 torchvision
 torchaudio
-accelerate==0.30.0
+accelerate==1.6.0
 torchmetrics==1.4.0
 tqdm==4.66.4
-transformers==4.40.2
+transformers==4.51.3
 diffusers==0.33.1
 einops==0.8.0
 bitsandbytes==0.42
